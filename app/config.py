@@ -92,3 +92,4 @@ class DevelopmentConfig(Config):
     MAIL_USERNAME = 'apikey'
     MAIL_DEFAULT_SENDER = 'registration_confirmation'
     MAIL_PASSWORD = ''
+    

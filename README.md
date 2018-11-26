@@ -47,13 +47,13 @@ Deployment steps
 If you are using python 3.x
 ```bash
 mkvirtualenv --python=`which python3` venv_name
-cd /path/to/justsignapp/
+cd /path/to/happycobra/
 setvirtualenvproject
 ```
 If you are using python 2.7
 ```bash
 mkvirtualenv --python=`which python` venv_name
-cd /path/to/justsignapp/
+cd /path/to/happycobra/
 setvirtualenvproject
 ```
 

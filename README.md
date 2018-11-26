@@ -16,16 +16,17 @@ Happy Cobra is a basic skeleton for Login & Registration system using the Flask-
  After Registration process is done, a confirmation email is sent to the users email id to confirm.  
     - Confirmation Link will be valid for only 1 day (configurable)
 
-3) Login: Login a user 
-        - Email (as userid)
-        - Pass
+3) Login: Login a user
+    - Email (as userid)
+    - Pass
+    - Track User details after login (browser, ip, geolocation, etc)
 
 4) Password Recovery:  
     Password reset and recovery, when a user forgets his or her password.  
     - Reset Password link expires within 1 day (configurable)
 
 5) Logout:
-        - Logout when user clicks Logout
+    - Logout when user clicks Logout
 
 Since this is a skeleton, it can be included in any bigger projects.
 
